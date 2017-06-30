@@ -1,0 +1,5 @@
+1.png
+[-1.5:1.5, -1.5:1.5] window, 75000 iterations for every polynomial, color saturates at 85 percentile, coeffs [1, -1]
+
+2.gif
+same. gnuplot colormap. coeffs are [6^(1 + i / 5), -1] for i from 0 to 29
